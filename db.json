@@ -9,10 +9,6 @@
 	{ "idTurnoHorario": 7, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 17:30 hs." },
     { "idTurnoHorario": 8, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 18:00 hs." }
   ],
-  "especialidad": {
-    "name": "imagenes"
-  }
-   "subespecialidad": {
-    "name": "rmi"
-  }
+  "especialidad":"imagenes",
+  "subespecialidad":"rmi"
 }
