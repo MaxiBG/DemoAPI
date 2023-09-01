@@ -1,12 +1,70 @@
 {
-  "turnos": [
-    { "idTurnoHorario": 1, "DescripcionTurnoHorario": "Jueves 7 de Septiembre, 14:30 hs" },
-    { "idTurnoHorario": 2, "DescripcionTurnoHorario": "Viernes 8 de Septiembre, 06:30 hs" },
-    { "idTurnoHorario": 3, "DescripcionTurnoHorario": "Sábado 9 de Septiembre, 08:00 hs." },
-	{ "idTurnoHorario": 4, "DescripcionTurnoHorario": "Sábado 9 de Septiembre, 10:00 hs." },
-    { "idTurnoHorario": 5, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 08:00 hs." },
-    { "idTurnoHorario": 6, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 08:30 hs." },
-	{ "idTurnoHorario": 7, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 17:30 hs." },
-    { "idTurnoHorario": 8, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 18:00 hs." }
-  ]
+	"especialidad": "Imágenes",
+	"subespecialidad": "RMI",
+	"turnos": [
+		{
+			"idTurno": 0,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2854",
+			"descripcion": "Jueves 7 de Septiembre, 14:30 hs."
+		},
+		{
+			"idTurno": 1,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2856",
+			"descripcion": "Viernes 8 de Septiembre, 06:30 hs."
+		},
+		{
+			"idTurno": 2,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2870",
+			"descripcion": "Sábado 9 de Septiembre, 08:00 hs."
+		},
+		{
+			"idTurno": 3,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2910",
+			"descripcion": "Sábado 9 de Septiembre, 10:00 hs."
+		},
+		{
+			"idTurno": 4,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2913",
+			"descripcion": "Lunes 12 de Septiembre, 08:00 hs."
+		},
+		{
+			"idTurno": 5,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2914",
+			"descripcion": "Lunes 12 de Septiembre, 08:30 hs."
+		},
+		{
+			"idTurno": 6,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2917",
+			"descripcion": "Lunes 12 de Septiembre, 17:30 hs."
+		},
+		{
+			"idTurno": 7,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2920",
+			"descripcion": "Lunes 12 de Septiembre, 18:00 hs."
+		}
+	]
 }
