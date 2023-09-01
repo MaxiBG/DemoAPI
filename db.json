@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "turnos": [
+    { "idTurnoHorario": 1, "DescripcionTurnoHorario": "Jueves 7 de Septiembre, 14:30 hs" },
+    { "idTurnoHorario": 2, "DescripcionTurnoHorario": "Viernes 8 de Septiembre, 06:30 hs" },
+    { "idTurnoHorario": 3, "DescripcionTurnoHorario": "Sábado 9 de Septiembre, 08:00 hs." },
+	{ "idTurnoHorario": 4, "DescripcionTurnoHorario": "Sábado 9 de Septiembre, 10:00 hs." },
+    { "idTurnoHorario": 5, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 08:00 hs." },
+    { "idTurnoHorario": 6, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 08:30 hs." },
+	{ "idTurnoHorario": 7, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 17:30 hs." },
+    { "idTurnoHorario": 8, "DescripcionTurnoHorario": "Lunes 12 de Septiembre, 18:00 hs." },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "especialidad": {
+    "name": "imagenes"
+  }
+   "subespecialidad": {
+    "name": "rmi"
   }
 }
