@@ -1,11 +1,19 @@
 {
 	"turnos": [
 		{
-			"idTurno": 0,
-			"descripcion": "Jueves 7 de Septiembre, 14:30 hs."
+			"idTurno": 6,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2917",
+			"descripcion": "Lunes 12 de Septiembre, 17:30 hs."
 		},
 		{
 			"idTurno": 7,
+			"duracion": 30,
+			"Centro": 21,
+			"Profesional": "N/A",
+			"codigo": "2920",
 			"descripcion": "Lunes 12 de Septiembre, 18:00 hs."
 		}
 	]
