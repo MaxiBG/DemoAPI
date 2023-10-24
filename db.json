@@ -64,5 +64,59 @@
 			"codigo": "2920",
 			"descripcion": "Lunes 12 de Septiembre, 18:00 hs."
 		}
+	],
+"timeSlots": [
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		},
+		{
+			"diaTurno": 30,
+			"horaTurno": 21,
+			"especialidadTurno": "N/A",
+			"Ocupación": "2854"
+		}
 	]
+
+
+
+	
 }
