@@ -67,52 +67,88 @@
 	],
 "timeSlots": [
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 1,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "09:00",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 2,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "09:20",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 3,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "10:20",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 4,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "11:00",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 5,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "11:40",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 6,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "12:00",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 7,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "14:20",
+			"especialidadTurno": "Pediatría",
+			"Ocupación": "D"
 		},
 		{
-			"diaTurno": 30,
-			"horaTurno": 21,
-			"especialidadTurno": "N/A",
-			"Ocupación": "2854"
+			"idTemp_turno": 8,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "14:40",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
+		},
+		{
+			"idTemp_turno": 9,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "18:00",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
+		},
+		{
+			"idTemp_turno": 10,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "18:20",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
+		},
+		{
+			"idTemp_turno": 11,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "18:40",
+			"especialidadTurno": "Traumatología",
+			"Ocupación": "D"
+		},
+		{
+			"idTemp_turno": 12,
+			"diaTurno": "15/11/2023",
+			"horaTurno": "19:00",
+			"especialidadTurno": "Pediatría",
+			"Ocupación": "D"
 		}
 	]
 
