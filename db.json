@@ -150,8 +150,56 @@
 			"especialidadTurno": "Pediatría",
 			"Ocupación": "D"
 		}
-	]
+	],
 
+
+
+	"Especialidad": [
+		{
+			"id_especialidad": 1,
+			"descripcionEspecialidad": "Traumatología"
+		},
+		{
+			"id_especialidad": 2,
+			"descripcionEspecialidad": "Cardiología"
+		},
+		{
+			"id_especialidad": 3,
+			"descripcionEspecialidad": "Clinica Médica"
+		},
+		{
+			"id_especialidad": 4,
+			"descripcionEspecialidad": "Pediatría"
+		},
+		{
+			"id_especialidad": 5,
+			"descripcionEspecialidad": "Laboratorio"
+		},
+		{
+			"id_especialidad": 6,
+			"descripcionEspecialidad": "Nutricionista"
+		},
+		{
+			"id_especialidad": 7,
+			"descripcionEspecialidad": "Neurología"
+		},
+		{
+			"id_especialidad": 8,
+			"descripcionEspecialidad": "Neumonología"
+		},
+		{
+			"id_especialidad": 9,
+			"descripcionEspecialidad": "Flebología"
+		},
+		{
+			"id_especialidad": 10,
+			"descripcionEspecialidad": "Otorrinolaringología"
+		},
+		{
+			"id_especialidad": 11,
+			"descripcionEspecialidad": "Hepatología"
+		}
+	]
 
 
 	
