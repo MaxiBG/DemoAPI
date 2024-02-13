@@ -1,206 +1,37 @@
 {
-	"turnos": [
+	"deuda": [
 		{
-			"idTurno": 0,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2854",
-			"descripcion": "Jueves 7 de Septiembre, 14:30 hs."
+			"idNumber": 123456,
+			"debt": 126000.00
 		},
 		{
-			"idTurno": 1,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2856",
-			"descripcion": "Viernes 8 de Septiembre, 06:30 hs."
+			"idNumber": 234567,
+			"debt": 246395.00
 		},
 		{
-			"idTurno": 2,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2870",
-			"descripcion": "Sábado 9 de Septiembre, 08:00 hs."
+			"idNumber": 345678,
+			"debt": 964126.45
 		},
 		{
-			"idTurno": 3,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2910",
-			"descripcion": "Sábado 9 de Septiembre, 10:00 hs."
+			"idNumber": 456789,
+			"debt": 658245.00
 		},
 		{
-			"idTurno": 4,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2913",
-			"descripcion": "Lunes 12 de Septiembre, 08:00 hs."
+			"idNumber": 567890,
+			"debt": 0.00"
 		},
 		{
-			"idTurno": 5,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2914",
-			"descripcion": "Lunes 12 de Septiembre, 08:30 hs."
+			"idNumber": 987654,
+			"debt": 836229.56
 		},
 		{
-			"idTurno": 6,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2917",
-			"descripcion": "Lunes 12 de Septiembre, 17:30 hs."
+			"idNumber": 876543,
+			"debt": 983452.55
 		},
 		{
-			"idTurno": 7,
-			"duracion": 30,
-			"Centro": 21,
-			"Profesional": "N/A",
-			"codigo": "2920",
-			"descripcion": "Lunes 12 de Septiembre, 18:00 hs."
-		}
-	],
-"timeSlots": [
-		{
-			"idTemp_turno": 1,
-			"diaTurno": "16/11/2023",
-			"horaTurno": "09:00",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 2,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "09:20",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 3,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "10:20",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 4,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "11:00",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 5,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "11:40",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 6,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "12:00",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 7,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "14:20",
-			"especialidadTurno": "Pediatría",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 8,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "14:40",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 9,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "18:00",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 10,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "18:20",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 11,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "18:40",
-			"especialidadTurno": "Traumatología",
-			"Ocupación": "D"
-		},
-		{
-			"idTemp_turno": 12,
-			"diaTurno": "15/11/2023",
-			"horaTurno": "19:00",
-			"especialidadTurno": "Pediatría",
-			"Ocupación": "D"
-		}
-	],
-
-
-
-	"Especialidad": [
-		{
-			"id_especialidad": 1,
-			"descripcionEspecialidad": "Traumatología"
-		},
-		{
-			"id_especialidad": 2,
-			"descripcionEspecialidad": "Cardiología"
-		},
-		{
-			"id_especialidad": 3,
-			"descripcionEspecialidad": "Clinica Médica"
-		},
-		{
-			"id_especialidad": 4,
-			"descripcionEspecialidad": "Pediatría"
-		},
-		{
-			"id_especialidad": 5,
-			"descripcionEspecialidad": "Laboratorio"
-		},
-		{
-			"id_especialidad": 6,
-			"descripcionEspecialidad": "Nutricionista"
-		},
-		{
-			"id_especialidad": 7,
-			"descripcionEspecialidad": "Neurología"
-		},
-		{
-			"id_especialidad": 8,
-			"descripcionEspecialidad": "Neumonología"
-		},
-		{
-			"id_especialidad": 9,
-			"descripcionEspecialidad": "Flebología"
-		},
-		{
-			"id_especialidad": 10,
-			"descripcionEspecialidad": "Otorrinolaringología"
-		},
-		{
-			"id_especialidad": 11,
-			"descripcionEspecialidad": "Hepatología"
+			"idNumber": 765432,
+			"debt": 174853.83
 		}
 	]
-
-
 	
 }
